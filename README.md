@@ -40,4 +40,6 @@ Some things we'd like to try:
   * Mutation testing (using Mutant)
 * Third-party authentication
   * CAS
+  * FIDO (UAF, U2F)
   * SAML
+  
