@@ -12,7 +12,7 @@ Goals
 
 * Create an app that meets our own needs.
 * Push the bounds of our Ruby experience.
-* See if we can turn this into a service.
+* See if we can turn this into a money-making service.
 
 
 Tech
@@ -23,6 +23,8 @@ Some things we'd like to try:
 * Hexagonal architecture
   * Separation of Web Page Controllers from business logic
   * Separation of models from persistence layer
+  * Command-line app built using same business logic as web app
+  * Using dumb DTOs when crossing boundaries
 * Sequel ORM
 * Frameworks other than Rails
   * Lotus
@@ -30,8 +32,10 @@ Some things we'd like to try:
   * Sinatra / Padrino
   * Cramp
   * Trailblazer (actually an add-on to Rails)
-  * Build our own (Raptor might be a nice starting place)
-* Property-based (generative) testing
+  * Build our own (Gary Bernhardt's Raptor might be a nice starting place)
+* Testing
+  * Property-based / generative / fuzz testing
+  * Mutation testing (using Mutant)
 * Third-party authentication
   * CAS
   * SAML
