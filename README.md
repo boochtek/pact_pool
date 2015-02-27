@@ -20,6 +20,8 @@ Tech
 
 Some things we'd like to try:
 
+* Job stories (instead of user stories)
+  * When [context], I want to [motivation] so that [expected benefit/outcome].
 * Hexagonal architecture
   * Separation of Web Page Controllers from business logic
   * Separation of models from persistence layer
