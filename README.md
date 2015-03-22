@@ -48,7 +48,8 @@ Some things we'd like to try:
   * Include build/deployment scripts in repo
   * Load balancing with HAProxy
     * TLS termination and SSL certificate management
+    * Probably with Varnish behind
   * Blue-green deployments
     * Deploy to staging
     * Swap staging and production
-
+  * Ansible
