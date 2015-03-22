@@ -42,4 +42,13 @@ Some things we'd like to try:
   * CAS
   * FIDO (UAF, U2F)
   * SAML
-  
+* DevOps
+  * Immutable servers
+  * Use Digital Ocean API to provision servers
+  * Include build/deployment scripts in repo
+  * Load balancing with HAProxy
+    * TLS termination and SSL certificate management
+  * Blue-green deployments
+    * Deploy to staging
+    * Swap staging and production
+
