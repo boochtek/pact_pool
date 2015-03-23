@@ -12,6 +12,7 @@ Goals
 
 * Create an app that meets our own needs.
 * Push the bounds of our Ruby experience.
+* Implement the principles of the [Twelve-Factor App](http://12factor.net/).
 * See if we can turn this into a money-making service.
 
 
