@@ -36,6 +36,7 @@ Some things we'd like to try:
   * Cramp
   * Trailblazer (actually an add-on to Rails)
   * Build our own (Gary Bernhardt's Raptor might be a nice starting place)
+  * [Phoenix](http://www.phoenixframework.org/) (Elixir)
 * Testing
   * Property-based / generative / fuzz testing
   * Mutation testing (using Mutant)
